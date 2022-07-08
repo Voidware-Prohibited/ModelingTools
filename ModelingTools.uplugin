@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Modeling Tools",
+	"Description": "Procedural Modeling Tools for Rapid Prototyping. Adapted from Lyra Tools.",
+	"Category": "Geometry",
+	"CreatedBy": "Voidware Prohibited",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		}
+	]
+}
